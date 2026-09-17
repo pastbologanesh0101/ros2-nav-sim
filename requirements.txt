@@ -1,0 +1,2 @@
+# No third-party dependencies required. Everything here is pure Python
+# standard library (tested on Python 3.11 and 3.12). numpy is NOT required.
